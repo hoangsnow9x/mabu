@@ -1,0 +1,14 @@
+{
+  "name": "mabu",
+  "version": "0.0.1",
+  "description": "This is my functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "function"
+  ],
+  "author": "hoangsnow9x",
+  "license": "ISC"
+}
